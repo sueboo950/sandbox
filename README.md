@@ -26,13 +26,13 @@ Ensure the following tools are installed:
 ### Initialize the Project
 1. Start by creating a new project and initializing npm:
 
-npm init -y
+    npm init -y
 
 2. Install Dependencies:
-npm install --save-dev webpack webpack-cli webpack-dev-server
-npm install --save-dev babel-loader @babel/core @babel/preset-env
-npm install --save-dev sass-loader css-loader style-loader postcss-loader autoprefixer mini-css-extract-plugin
-npm install bootstrap
+    npm install --save-dev webpack webpack-cli webpack-dev-server
+    npm install --save-dev babel-loader @babel/core @babel/preset-env
+    npm install --save-dev sass-loader css-loader style-loader postcss-loader autoprefixer mini-css-extract-plugin
+    npm install bootstrap
 
 3. Configure Webpack and Babel
 4. Create files and file structure
