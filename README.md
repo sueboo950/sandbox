@@ -25,7 +25,7 @@ Ensure the following tools are installed:
 
 1. Initialize the Project
 Start by creating a new project and initializing npm:
-```bash
+
 npm init -y
 
 2. Install Dependencies
