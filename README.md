@@ -23,13 +23,12 @@ Ensure the following tools are installed:
 
 ## Setup Instructions
 
-1. Initialize the Project
-Start by creating a new project and initializing npm:
+### Initialize the Project
+1. Start by creating a new project and initializing npm:
 
 npm init -y
 
-2. Install Dependencies
-
+2. Install Dependencies:
 npm install --save-dev webpack webpack-cli webpack-dev-server
 npm install --save-dev babel-loader @babel/core @babel/preset-env
 npm install --save-dev sass-loader css-loader style-loader postcss-loader autoprefixer mini-css-extract-plugin
